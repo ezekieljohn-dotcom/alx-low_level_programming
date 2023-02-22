@@ -1,11 +1,14 @@
 #include "main.h"
-#include <stdio.h>
+#include "../holberton.h"
+
 /**
- * main -Entry point
- * Description: Code checks
+ * main - check the code for Holberton School students.
+ *
  * Return: Always 0.
  */
 int main(void)
-{	print_alphabet();
+{
+	print_alphabet();
 	return (0);
 }
+
